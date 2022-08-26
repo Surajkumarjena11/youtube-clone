@@ -1,0 +1,46 @@
+/* .search-bar { */
+    /* display: block; */
+  /* } */
+
+  .header{
+    height: 55px;
+
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+
+
+  }
+
+  .left-section{
+    
+    width:150px;
+    display: flex;
+    align-items: center;
+  }
+
+  .hamberger-menu{
+    height: 20px;
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+  .youtube-logo{
+    height: 35px;
+  }
+
+
+
+  .middle-section{
+    background-color: blueviolet;
+    Flex: 1;
+    margin-left: 80px;
+
+    max-width: 700px;
+    
+
+  }
+  .right-section{
+    background-color: brown;
+    width: 180px;
+    margin-left: 30px;
+  }
